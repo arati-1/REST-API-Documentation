@@ -1,2 +1,3 @@
-*This is bold line*
-__This is Italic Line__
+*This is Italic line*
+
+__This is bold  Line__
