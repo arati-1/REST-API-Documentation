@@ -24,3 +24,6 @@ Adding code blocks
     return num1 + num2
 
 '''
+Adding links
+
+[Click Here](http.google.com "Google address")
