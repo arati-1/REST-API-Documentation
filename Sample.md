@@ -10,3 +10,17 @@ Table:
 |      |      |
 |      |      |
 ---------------
+
+
+Adding code blocks
+
+''' bash
+  npm install
+
+'''
+
+''' python
+  def (num1, num2):
+    return num1 + num2
+
+'''
